@@ -1,10 +1,9 @@
 
-id: fhir.org.nz.ig.base
-#id: hl7.fhir.nz.base
-### experimental!!!  changing the canonical url to match the 
-# this is the original   canonical: http://fhir.org.nz/ig/base
+# id: fhir.org.nz.ig.base
+# canonical: http://hl7.org.nz/fhir
 
-canonical: http://hl7.org.nz/fhir
+id: hl7.fhir.nz.base
+canonical: http://fhir.org.nz/ig/base
 
 version: 2.1.0
 name: HL7FHIRNewZealandBaseImplementationGuide

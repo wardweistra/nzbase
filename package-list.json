@@ -1,5 +1,5 @@
 {
-  "package-id": "fhir.org.nz.ig.base",
+  "package-id": "hl7.fhir.nz.base",
   "canonical": "http://fhir.org.nz/ig/base",
   "title": "HL7® FHIR® New Zealand Base Implementation Guide",
   "introduction": "New Zealand base profiles",
